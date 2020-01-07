@@ -12,7 +12,7 @@ clone代码到本地，Windows平台打开Powershell，macOS或Linux打开控制
 Standrad Django MVT pattern implement. 
 
 ### 目前已实现的功能
-1.用户注册、登录
-2.用户发帖、评论、编辑
-3.用户照片墙及主页
-4.用户关注流
+1. 用户注册、登录
+2. 用户发帖、评论、编辑
+3. 用户照片墙及主页
+4. 用户关注流
