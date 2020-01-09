@@ -1,4 +1,6 @@
 # InstaDemo
+下载zip文件包在本地，确保本机已安装Python3与django，在Powershell或terminal中切换到文件manage.py，所在路径，输入python manage.py runserver
+浏览器地址栏输入127.0.0.1:8000即可
 
 ## 功能展示
 ![image](https://github.com/larkloss/InstaDemo/blob/master/Showcase/Showcase%20(1).jpg)
